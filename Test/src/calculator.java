@@ -17,5 +17,7 @@ public class calculator {
     public static void main(String[] args) {
         calculator cl = new calculator();
         cl.Area(23);
+        cl.Area(15, 75);
+        cl.Area(12,13,15);
     }
 }
